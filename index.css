@@ -1,11 +1,8 @@
-
-
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #c9c9c9;
   
 }
-
 
 .header{
 
@@ -19,11 +16,10 @@ body {
 	font-weight: bold;
 	text-shadow: black;
 	
-
 }
 
 img{
-z-index: -10;
+  z-index: -10;
   opacity: .3;
   position: relative;
   max-height: 80%;

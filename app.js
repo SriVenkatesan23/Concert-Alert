@@ -1,9 +1,8 @@
 angular.module('todoApp', [])
-  .controller('AlertController', function() {
-   
+  .controller('AlertController', function($scope) {
 
 
-
+  	
 
 
 
